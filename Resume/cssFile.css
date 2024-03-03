@@ -1,0 +1,21 @@
+
+html{
+    background-color: rgb(209, 226, 239) ;
+    
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: blue;
+}
+
+h3{
+    color: grey;
+}
+
+img{
+    box-sizing: border-box;
+}
